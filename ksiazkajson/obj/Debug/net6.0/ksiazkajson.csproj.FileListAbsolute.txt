@@ -1,0 +1,17 @@
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\bin\Debug\net6.0\ksiazkajson.exe
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\bin\Debug\net6.0\ksiazkajson.deps.json
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\bin\Debug\net6.0\ksiazkajson.runtimeconfig.json
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\bin\Debug\net6.0\ksiazkajson.dll
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\bin\Debug\net6.0\ksiazkajson.pdb
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.AssemblyInfo.cs
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.csproj.CopyComplete
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.dll
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\refint\ksiazkajson.dll
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.pdb
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ksiazkajson.genruntimeconfig.cache
+C:\Users\piotr\source\repos\ksiazkajson\ksiazkajson\obj\Debug\net6.0\ref\ksiazkajson.dll
